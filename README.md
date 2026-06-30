@@ -1,6 +1,3 @@
-Below is a professional, ATS-friendly, and visually appealing **GitHub README.md** for your project.
-
-````markdown
 # 🎬 Netflix Content Analysis Dashboard | Power BI
 
 <p align="center">
