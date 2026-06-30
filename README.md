@@ -1,5 +1,42 @@
 # 🎬 Netflix Content Analysis Dashboard | Power BI
+## 📷 Dashboard Preview
 
+<p align="center">
+  <img src="dashboard.png" alt="Netflix Content Analysis Dashboard" width="100%">
+</p>
+
+### 📊 Dashboard Highlights
+
+The Power BI dashboard provides an interactive overview of Netflix's content library with multiple visualizations and filters.
+
+### 🔹 KPI Cards
+- 🎬 Total Movies: **1K**
+- 📺 Total TV Shows: **556**
+- 📦 Total Content: **2K**
+- 🌍 Total Countries: **121**
+- ⭐ Total Ratings: **12**
+
+### 📈 Visualizations Included
+- 📅 Content Released by Year
+- 🎭 Movies vs TV Shows Distribution
+- 🌍 Top 10 Content-Producing Countries
+- 🎬 Top Genres (Listed In)
+- ⏱ Most Common Movie Durations
+- 📊 Interactive Filters for:
+  - Month
+  - Content Type
+  - Rating
+  - Country
+  - Release Year
+
+### 📌 Key Insights
+- Movies account for approximately **66.77%** of the total content.
+- TV Shows account for approximately **33.23%** of the total content.
+- The **United States** has the highest number of Netflix titles.
+- **India** is among the top content-producing countries.
+- International Movies, Dramas, and Comedies are the most popular genres.
+- Most movies have durations between **90–99 minutes**.
+- Interactive slicers allow users to dynamically explore Netflix content by month, rating, country, and release year.
 <p align="center">
   <img src="dashboard.png" alt="Netflix Dashboard" width="100%">
 </p>
